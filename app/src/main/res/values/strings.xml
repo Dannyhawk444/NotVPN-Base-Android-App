@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NotVPN</string>
+    <string name="on_off">On/Off</string>
+    <string name="NotVPN">NotVPN</string>
+    <string name="randomize_background">Randomize Background</string>
+    <string name="settings">Settings</string>
+</resources>
